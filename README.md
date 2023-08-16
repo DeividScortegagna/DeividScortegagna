@@ -1,8 +1,8 @@
 ### Hi there 👋
 ### C:\Users\profile>
 
-<h3 align="center">a little about myself</h3>
-<h3 align="left">Connect with me: https://br.linkedin.com/in/deivid-scortegagna-b87582188 </h3>
+<h3 align="center">A little about myself</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/deivid-scortegagna-b8758218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deivid scortegagna" height="30" width="40" />
 </a>
